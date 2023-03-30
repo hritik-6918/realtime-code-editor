@@ -2,8 +2,7 @@
 
 ## Introduction
 
-The Realtime Code Editor is a web-based code editor that allows multiple users to edit the same codebase simultaneously in realtime. It is built with React.js, Node.js, Socket.IO, and Tailwind CSS. You can find the Live Demo at https://musical-khapse-5244f7.netlify.app/.
-
+The Realtime Code Editor is a web-based code editor that allows multiple users to edit the same codebase simultaneously in realtime. It is built with React.js, Node.js, Socket.IO, and Tailwind CSS. You can find the Live Demo at 
 ## Features
 
 - Collaborative editing: Multiple users can edit the same codebase at the same time and see each other's changes in realtime.
